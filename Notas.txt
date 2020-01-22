@@ -1,0 +1,7 @@
+Digite abaixo as notas que você tirou nas disciplinas de:
+
+
+CI/CD
+Core DevOps
+Agile
+Coach
